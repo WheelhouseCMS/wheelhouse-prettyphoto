@@ -15,5 +15,5 @@ Gem::Specification.new do |s|
   s.files        = Dir.glob("{lib}/**/*")
   s.require_path = "lib"
   
-  s.add_dependency("wheelhouse", "~> 0.9.1")
+  s.add_dependency("wheelhouse", "~> 0.10.0")
 end
